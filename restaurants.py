@@ -5,6 +5,11 @@ groups = [
         "Antonio's",
         'Mikes',
         'Korean Fried Chicken',
+        'Soban',
+        "Durk's",
+        'Gen',
+        'Den Den Cafe',
+        "Harry's burger"
         ]
 
 iteration = 0
