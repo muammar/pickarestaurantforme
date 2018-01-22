@@ -15,7 +15,9 @@ groups = [
         'Wongs kitchen',
         'Flatbread',
         'Kebab and Curry',
-        'Bajas'
+        'Bajas',
+        'Meeting Street Cafe',
+        'Yans cuisine'
         ]
 
 iteration = 0
