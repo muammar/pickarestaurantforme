@@ -9,7 +9,13 @@ groups = [
         "Durk's",
         'Gen',
         'Den Den Cafe',
-        "Harry's burger"
+        "Harry's burger",
+        'East Side pockets',
+        'Skewers',
+        'Wongs kitchen',
+        'Flatbread',
+        'Kebab and Curry',
+        'Bajas'
         ]
 
 iteration = 0
