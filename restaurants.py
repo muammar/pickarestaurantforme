@@ -37,6 +37,6 @@ while True:
 
     if a == b == c == d == e == f:
         recurrence += 1
-        if recurrence == 4:
+        if recurrence == 2:
             print('After %s iterations, group chosen is %s.' % (iteration, a))
             break
