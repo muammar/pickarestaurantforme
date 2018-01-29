@@ -14,7 +14,7 @@ groups = [
         'Skewers',
         'Wongs kitchen',
         'Flatbread',
-        'Kebab and Curry',
+        'Kabob and Curry',
         'Bajas',
         'Meeting Street Cafe',
         'Yans cuisine'
@@ -32,10 +32,8 @@ while True:
     b = random.choice(groups)
     c = random.choice(groups)
     d = secure_random.choice(groups)
-    e = random.choice(groups)
-    f = secure_random.choice(groups)
 
-    if a == b == c == d == e == f:
+    if a == b == c == d:
         recurrence += 1
         if recurrence == 2:
             print('After %s iterations, group chosen is %s.' % (iteration, a))
