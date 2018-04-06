@@ -7,7 +7,7 @@ groups = [
         'Korean Fried Chicken',
         'Soban',
         "Durk's",
-        'Gen',
+        'Heng',
         'Den Den Cafe',
         "Harry's burger",
         'East Side pockets',
@@ -36,5 +36,5 @@ while True:
     if a == b == c == d:
         recurrence += 1
         if recurrence == 2:
-            print('After %s iterations, group chosen is %s.' % (iteration, a))
+            print('After %s iterations, restaurant chosen is %s.' % (iteration, a))
             break
